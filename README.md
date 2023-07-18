@@ -22,7 +22,7 @@ https://cryptocurrencydeshboard-p.netlify.app/
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-git clone 
+git clone https://github.com/17862536/Crypto_Currency_dashboard.git
 ```
 - Open your favorite code editor and run Locally!
 
